@@ -1,0 +1,8 @@
+Title:
+Enterprise Data and Emerging AI Capabilities
+
+Summary:
+Discover how a century-old, multi-national manufacturing company is transforming its technology landscape to compete in a data-driven world. This presentation explores the journey from fragmented legacy systems to a modern data foundation designed for scale, resilience, and speed. We will highlight how harmonized data across global operations powers enterprise-level insight, and how AI enablement is unlocking new opportunities in forecasting, operations, and customer experience. Join us to see how an industrial leader is turning decades of operational history into a strategic asset through data and AI.
+
+Bio:
+Timothy Tarbet is the Director of Enterprise Data and AI at Parker Hannifin.

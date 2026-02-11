@@ -1,0 +1,12 @@
+Title:
+"From College Professor to Small Business Owner to Startup Developer: The Adventures in Software Engineering"
+
+Summary:
+In this talk, I'll discuss my somewhat unusual career path from a very typical beginning through being a professor, a small business owner, and most recently a software engineer at a startup. Over the course of my career, I've come to appreciate the differences between programming, software engineering, and software architecture, terms that are often confused and conflated. I'll talk about the principles that make good programmers, what it takes to transition into a software engineer, and why software architecture is a fundamentally different skill set.
+
+Then we'll talk about the elephant in the room: AI.
+
+Bio:
+Andrew Sutton is a Principal Software Engineer at Beyond Identity, an online identity and security company, where he helps steer development of their policy engine and other parts of their critical runtime infrastructure. Before working at Beyond Identity, Andrew was co-owner of Lock3 Software, a small compiler company that helped implement experimental language features for C++ and helped prototype new, experimental languages. Andrew was an Assistant Professor at the University of Akron before leaving to work at Lock3 Software full-time. While there, he taught object-oriented programming (badly), programming languages, and compilers.
+
+Andrew Sutton graduated with a PhD from Kent State University in 2010 under Dr. Jonathan Maletic and worked as a postdoctoral research associate at Texas A&M University under Bjarne Stroustrup, the creator of C++.

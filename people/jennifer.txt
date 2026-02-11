@@ -1,0 +1,11 @@
+Summary:
+Join us for our the first of our new weekly Employer Seminar sessions!
+
+Jennifer will talk about her path in UX and how design and computer science combine to make an impact in climate-tech and beyond.
+
+All students are welcome. Learn how computing is used to solve real-world problems and meet professionals applying these skills in industry.
+
+Bio:
+Jennifer Fields is a graduate of Kent State University's Digital Sciences program and holds a Master's degree in User Experience (UX) from Kent State. She has worked in UX design for Goodyear, OverDrive, and now at SINAI Technologies, and has also provided UX consulting services for a variety of organizations.
+
+SINAI Technologies is a San Francisco–based climate-tech software company that helps large enterprises measure, analyse, report, and manage their carbon emissions across global operations. The company's platform supports scopes 1, 2 and 3 emissions, equipment-level tracking, financial modelling, and decarbonisation planning—so Jennifer's UX work has a direct role in shaping how users interact with complex data and sustainability tools.
