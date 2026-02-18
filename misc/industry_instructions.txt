@@ -1,47 +1,49 @@
 INDUSTRY PARTNERSHIP SEMINAR SPEAKER RECOMMENDATIONS
 
-The objective of the seminar is to expose our students to the variety
-of computer science and IT related industry experiences. This would
-help them in selecting their future career and help them prepare for
-it.  Thank you agreeing to help us with this!
+The objective of the seminar is to expose our students to a variety
+of computer science and IT-related industry experiences. This will
+help them select their future careers and prepare for them.
+Thank you for agreeing to help us with this!
 
-30-45 minute presentation is expected. Slides are helpful but not
-necessary. Simple does it.
+A 30-45 minute presentation is expected. Slides are helpful but not
+necessary. Simple is best.
 
-Here are the suggested topics and the outline of the presentation at the
-seminar. Please treat this as a suggestion: anything and everything is
-interesting. If you choose to spend the whole presentation on your
-favorite programming language or somesuch, by all means do so. Do not
-share any non-public information.
+Below are suggested topics and an outline for your seminar presentation.
+Please treat this as a suggestion—anything and everything is interesting.
+If you choose to spend the whole presentation on your favorite programming
+language or a similar topic, by all means do so. Please do not share any
+non-public information.
 
-Rather than giving direct advice, e.g. "study hard" (students tend not
-to be receptive to those), explain why, give stories from work that
-support your advice, discuss your personal experience.
+Rather than giving direct advice (e.g., "study hard," which students tend
+not to be receptive to), explain why, share stories from work that support
+your advice, and discuss your personal experiences.
 
+These talks are meant to increase student contact with people who can
+tell them about careers and experiences in the "real world."
 
 TOPICS/OUTLINE
 
-- about yourself: your college experience, your career highlights, how
-  you chose to be a computer science professional and why you
-  work for the company you do now;
+- About yourself: your college experience, your career highlights, how
+  you chose to become a computer science professional, and why you
+  work for your current company;
 
-- about your company: name, products and processes, number of
-  employees, number of IT professionals. Anything interesting and
-  unusual that the students need to know;
+- About your company: name, products and processes, number of
+  employees, number of IT professionals, and anything interesting or
+  unusual that students should know;
 
-- about your work:
+- About your work:
   -- challenging or interesting projects,
-  -- human interactions: with your supervisor, colleagues, customers;
+  -- human interactions: with your supervisor, colleagues, and customers;
 
-- tools of the trade: what computer languages, tools, processes
-  you use at work (and how) and which ones you wish you did;
+- Tools of the trade: what computer languages, tools, and processes
+  you use at work (and how), and which ones you wish you used;
 
-- job/internship opportunities in your company and how to get them;
+- Job/internship opportunities at your company and how to obtain them;
 
-- what future holds: where do you see industry going in the next 1-5 years?
+- The future: where do you see the industry going in the next 1-5 years?
 
-- advice to students: what courses to take, what to do in college, how
-  to prepare the resume, what companies to chose, what opportunities to
-  pursue and how to get them.
+- Advice to students: what courses to take, what to do in college, how
+  to prepare a resume, which companies to choose, what opportunities to
+  pursue, and how to get them.
 
-  What would you have done differently? Or maybe, what have you done right?
+  What would you have done differently? Or, what have you done right?
