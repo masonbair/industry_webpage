@@ -4,11 +4,11 @@ Agenda:
 Intro
 About me (my story, not advice)
 How to build AI effectively for an organization
-The Future of Work (what’s changing in 1–5 years)
-How to “manage agents” (what students can do now)
+The Future of Work (what's changing in 1-5 years)
+How to "manage agents" (what students can do now)
 Roles emerging in the new agentic market
 Close + Q&A 
 
 
 the bio...
-Quentin Fisher is the founder of Aidan Systems and a long-time data and analytics leader focused on building practical AI solutions that prioritize human well-being and empower the workforce. He has 25+ years of experience across data engineering, predictive analytics, and AI-driven transformation, with work spanning healthcare and manufacturing. Quentin’s work centers on helping organizations build AI the “right way,” combining strong data foundations (lakehouse/data estate patterns) with responsible deployment practices, governance, and measurable outcomes. He has held senior analytics and architecture roles including Global BI leadership, and his recent focus includes generative AI, Retrieval Augmented Generation (RAG), and modern agent frameworks.
+Quentin Fisher is the founder of Aidan Systems and a long-time data and analytics leader focused on building practical AI solutions that prioritize human well-being and empower the workforce. He has 25+ years of experience across data engineering, predictive analytics, and AI-driven transformation, with work spanning healthcare and manufacturing. Quentin's work centers on helping organizations build AI the "right way," combining strong data foundations (lakehouse/data estate patterns) with responsible deployment practices, governance, and measurable outcomes. He has held senior analytics and architecture roles including Global BI leadership, and his recent focus includes generative AI, Retrieval Augmented Generation (RAG), and modern agent frameworks.
