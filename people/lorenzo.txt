@@ -1,0 +1,2 @@
+Title: MCPC: Outcome Engineers
+Abstract: An introduction to MCPC, an endpoint lifecycle management company. During this session, we will showcase the infrastructure, personnel, and technology required to securely and efficiently manage a device and its data from birth to retirement.
