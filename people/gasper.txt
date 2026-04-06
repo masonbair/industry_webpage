@@ -1,0 +1,6 @@
+
+Abstract
+In high-pressure environments like emergency response, software is not just a tool, it becomes part of the decision-making process. This talk explores how programming and user interface design directly impact response time, where saving even 5-10 seconds per interaction can make a measurable difference. Drawing from real-world scenarios, it highlights how thoughtful system design, real-time data, and streamlined workflows enable faster, more effective action in critical moments.
+
+Speaker Bio
+Gasper Bizjak is the CEO of Astral8, Inc., where he leads the development of next-generation emergency management systems for fire departments and 9-1-1 services. A former firefighter and international emergency management instructor, he brings over 15 years of hands-on experience working in both software development and emergency management. His work focuses on one core idea: that better programming and smarter user interfaces can save time - and in emergency response, time saves lives.
