@@ -1,1 +1,7 @@
-Rich Deken - Google
+Rich Deken (pronounced DEE-ken, like "deacon") is a veteran of the software and cloud computing industry. Rich holds a BS in Computer Science from The Ohio State University and an MBA from Case Western Reserve University.
+
+
+Rich spent the first 16 years of his career in various software development and consulting roles at Microsoft and was the Practice Director for Data Analytics and Business Intelligence at a Microsoft Partner firm. Rich is currently at Google, working in multiple roles as an individual contributor and in leadership positions across Google Cloud, primarily focusing on the data analytics and DevOps technologies and working with customers across the US and Canada.
+
+
+Rich has four kids, ranging from 14 to 23, and lives with his wife and high school-age daughters in Chagrin Falls.
