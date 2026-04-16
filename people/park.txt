@@ -1,1 +1,6 @@
-Park Place Technologies
+TITLE
+What It’s Like to Work as a Software Engineer in Industry 
+
+ABSTRACT
+This presentation is designed to be student‑focused and address common questions and concerns from computer science students considering industry careers. We will begin with brief introductions, covering our educational backgrounds, professional paths, and current roles at Park Place Technologies. We’ll then provide a high‑level overview of Park Place Technologies as a business, what it’s like to work there, and some of the more interesting aspects of working in a technology‑driven organization. From there, we’ll dive into the real‑world technical projects we support, why they matter to the company, and the technology stack we use to build and operate them. The goal is to give students practical insight into what day‑to‑day software engineering work looks like in industry, how academic skills translate to real systems, and what skills matter most early in a career. We’ll conclude with an open Q&A to allow students to explore topics most relevant to their own interests and career goals.
+

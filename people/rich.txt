@@ -1,7 +1,13 @@
+Title: Adaptability and the Future of Technology
+
+Abstract: In this seminar, Rich will discuss his career journey through the software and cloud computing industries, including key experiences that shaped his path. He will describe how he prepared for his career and how he continues to stay current in a rapidly evolving field.
+
+The talk will include perspectives on the future of technology, with particular attention to artificial intelligence and its implications. Rich will also share practical advice for students on building and sustaining a healthy, adaptable career in computing.
+
+The session will be conversational in style, with time for discussion and questions.
+
 Rich Deken (pronounced DEE-ken, like "deacon") is a veteran of the software and cloud computing industry. Rich holds a BS in Computer Science from The Ohio State University and an MBA from Case Western Reserve University.
 
-
 Rich spent the first 16 years of his career in various software development and consulting roles at Microsoft and was the Practice Director for Data Analytics and Business Intelligence at a Microsoft Partner firm. Rich is currently at Google, working in multiple roles as an individual contributor and in leadership positions across Google Cloud, primarily focusing on the data analytics and DevOps technologies and working with customers across the US and Canada.
-
 
 Rich has four kids, ranging from 14 to 23, and lives with his wife and high school-age daughters in Chagrin Falls.
