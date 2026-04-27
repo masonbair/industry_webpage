@@ -1,1 +1,16 @@
-Jake Sanchez - Progressive
+Jake Sanchez
+
+Bio:
+Jake Sanchez, a 2015 graduate of Bowling Green State University, has worked at Progressive Insurance since graduation. He currently serves as a Software Developer Consultant and Front End Development Capability Leader.
+
+Jake has always had a passion for writing JavaScript to create usable, accessible front end applications. Inclusive design has been at the heart of his work. In his current role, he works broadly across organizations by developing and maintaining core front end libraries consumed by more than 100 Angular applications. He also helps foster a strong front end development culture by collaborating with hundreds of developers and mentoring many others.
+
+Jake currently resides in Cleveland, Ohio, with his wife, Becca. He is an avid long distance runner, guitar player, and golfer.
+
+“I am really excited for the opportunity to share not only my software engineering journey, but also the amazing experiences I have had while working at Progressive.”
+
+Title:
+“Delivering Advanced Technology By Embracing Culture”
+
+Abstract:
+Progressive embraces diversity and was recently named Forbes Best Company Culture award. Jake plans to cover his experiences at Progressive that have made it an outstanding work environment and some specifics on how Progressive keeps their diverse culture alive and enhances their ability to deliver advanced and effective technology solutions. 
