@@ -7,10 +7,10 @@ Jake has always had a passion for writing JavaScript to create usable, accessibl
 
 Jake currently resides in Cleveland, Ohio, with his wife, Becca. He is an avid long distance runner, guitar player, and golfer.
 
-“I am really excited for the opportunity to share not only my software engineering journey, but also the amazing experiences I have had while working at Progressive.”
+"I am really excited for the opportunity to share not only my software engineering journey, but also the amazing experiences I have had while working at Progressive."
 
 Title:
-“Delivering Advanced Technology By Embracing Culture”
+"Delivering Advanced Technology By Embracing Culture"
 
 Abstract:
 Progressive embraces diversity and was recently named Forbes Best Company Culture award. Jake plans to cover his experiences at Progressive that have made it an outstanding work environment and some specifics on how Progressive keeps their diverse culture alive and enhances their ability to deliver advanced and effective technology solutions. 
